@@ -15,6 +15,7 @@ rule.mk
 V1固件对源文件的修改
 
 rule.mk
+
 #NO_USB_STARTUP_CHECK = yes  禁用USB启动初始化识别，这样键盘不会识别开关机重启动作，一直处于工作状态，需要对BIOS设置USB关机断电
 
 
