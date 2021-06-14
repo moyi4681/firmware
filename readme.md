@@ -26,6 +26,8 @@ via下载地址：
 
 https://github.com/the-via/releases/releases
 
-在线刷机，需要键盘刷好VIA或VIAL的固件，打开网址后按提示导入firmware for VIA/JSON文件夹中对应的json文件
+在线刷机：
 
 https://remap-keys.app/configure
+
+需要使用chrome浏览器，键盘刷好VIA或VIAL的固件，打开网址后按提示导入firmware for VIA/JSON文件夹中对应的json文件
