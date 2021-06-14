@@ -64,4 +64,4 @@ Remap Online
 
 https://remap-keys.app/configure
 
-You need to use Chrome browser, reflash the firmware of via or vial,  choose the correct JSON file in the firmware for via /JSON folder
+You need to use Chrome browser, reflash the firmware of via or vial,  choose the correct JSON file in "firwmare for VIA/JSON" folder
