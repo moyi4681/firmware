@@ -11,6 +11,6 @@ kbd67mkiirgb_v3，dz65rgb_v3, bellargb，bellargb_iso和boop65rgb需要在via里
 
 # Please do not use JSON file as firmware
 
-kbd67mkiirgb_ v3，dz65rgb_ v3, bellargb，bellargb_ ISO and boot65rgb need to be used after importing JSON into via. The specific operation method is to open via software, click "file" -- select "import keymap" -- select the corresponding JSON file in the upper left corner.
+kbd67mkiirgb_ v3，dz65rgb_ v3, bellargb，bellargb_ ISO and booP65rgb need to be used after importing JSON into via. The specific operation method is to open via software, click "file" -- select "import keymap" -- select the corresponding JSON file in the upper left corner.
 
 Due to the network or computer settings, via can not load the keyboard, which can also be solved by manually importing the JSON file.
