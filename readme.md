@@ -32,7 +32,7 @@ https://remap-keys.app/configure
 
 需要使用chrome浏览器，键盘刷好VIA或VIAL的固件，打开网址后按提示导入firmware for VIA/JSON文件夹中对应的json文件
 
-# Via and vial firmware of kbdfans and dztech series RGB motherboards are recommended.
+# Via and vial firmware of kbdfans and dztech. We recommend using VIA
 
 Source code address:
 
@@ -46,7 +46,7 @@ https://docs.qmk.fm/
 
 Download address of qmktoolbox
 
-https://github.com/qmk/qmk_ toolbox/releases
+https://github.com/qmk/qmk_toolbox/releases
 
 After downloading, the driver will be installed automatically. If the driver is not installed successfully, Download Zadig to fix it
 
