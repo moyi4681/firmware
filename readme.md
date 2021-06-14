@@ -1,4 +1,4 @@
-# KBDFANS和DZTECH系列RGB主板固件
+# KBDFANS和DZTECH系列RGB主板VIA和VIAL固件，建议使用VIA。
 
 源码地址：
 
@@ -6,6 +6,9 @@ https://github.com/qmk/qmk_firmware/tree/master/keyboards/dztech
 
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/kbdfans
 
+QMK官方指导文档：
+
+https://docs.qmk.fm/
 
 刷机工具qmktoolbox下载地址：
 
@@ -22,3 +25,7 @@ https://get.vial.today/download/
 via下载地址：
 
 https://github.com/the-via/releases/releases
+
+在线刷机,需要导入firmware for VIA/JSON文件夹中对应的json文件
+
+https://remap-keys.app/configure
