@@ -1,6 +1,4 @@
-# RGB板修正版固件
-
-最新版本的QMK生成VIA固件。
+# VIA 固件，不兼容VIAL
 
 # 请注意不要将JSON文件当成固件使用（DO NOT use json file as firmware）
 
