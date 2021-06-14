@@ -8,7 +8,7 @@ config.h文件：
 
 define USB_SUSPEND_WAKEUP_DELAY 5000
 
-rule.mk
+rule.mk文件：
 
 NO_USB_STARTUP_CHECK = no
 
@@ -16,7 +16,7 @@ WAIT_FOR_USB = yes
 
 # V1固件对源文件的修改
 
-rule.mk
+rule.mk文件：
 
 NO_USB_STARTUP_CHECK = yes  
 
