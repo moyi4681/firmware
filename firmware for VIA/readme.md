@@ -14,6 +14,6 @@ kbd67mkiirgb_v3，dz65rgb_v3, bellargb，bellargb_iso和boop65rgb需要在via里
 
 kbd67mkiirgb_ v3，dz65rgb_ v3, bellargb，bellargb_ ISO and booP65rgb need to be used after importing JSON into via. The specific operation method is to open via software, click "file" -- select "import keymap" -- select the corresponding JSON file in the upper left corner.
 
-Due to the network or computer settings, via can not load the keyboard, which can also be solved by manually importing the JSON file.
+If via can't auto load the keyboard, which can also be solved by manually importing the JSON file.
 
 V1 add ##define NO_USB_STARTUP_CHECK in config.h file to fix Unresponsive after boot, if V3 can't fix it. Pls clear eeprom before reflash a new firmware.
