@@ -6,7 +6,7 @@ kbd67mkiirgb_v3，dz65rgb_v3, bellargb，bellargb_iso和boop65rgb需要在via里
 
 因网络或电脑设置导致VIA无法加载键盘的情况也可以通过手工导入JSON文件来解决。
 
-重启唤醒不识别的问题先使用VersionA，versionA不能修复用VersionB，VersionB相对于VersionA在confg.h文件设置了 #define NO_USB_STARTUP_CHECK  刷机前请清EEP，可以用QMKTOOL_BOX清，也可以先拔下键盘，按住ESC插入使其进入刷机模式，这个操作也同时进行了EEP复位。
+重启唤醒不识别的问题先使用VersionA，versionA不能修复用VersionB，VersionB相对于VersionA在confg.h文件设置了 #define NO_USB_STARTUP_CHECK. 需要在BIOS设置USB在关机状态下节能断电。  刷机前请清EEP，可以用QMKTOOL_BOX清，也可以先拔下键盘，按住ESC插入使其进入刷机模式，这个操作也同时进行了EEP复位。
 
 # VIA firmware, not compatible with VIAL
 
