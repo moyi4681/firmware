@@ -2,7 +2,7 @@
     "name": "endless80",
     "vendorId": "0x445A",
     "productId": "0X1015",
-    "lighting": "none",
+    "lighting": "qmk_rgblight",
     "matrix": {
       "rows": 6,
       "cols": 15

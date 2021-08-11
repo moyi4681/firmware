@@ -1,7 +1,7 @@
 {
     "name": "KBD67MKIIRGBV3",
     "vendorId": "0x4B42",
-    "productId": "0x0100",
+    "productId": "0x1226",
     "lighting": {
         "extends": "none",
         "keycodes": "qmk"
