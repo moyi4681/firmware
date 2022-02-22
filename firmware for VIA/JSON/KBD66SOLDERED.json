@@ -1,7 +1,7 @@
 {
-    "name": "KBD66RGB",
+    "name": "KBD66_SOLDERED",
     "vendorId": "0x4B42",
-    "productId": "0x0106",
+    "productId": "0x0107",
     "lighting": {
         "extends": "none",
         "keycodes": "qmk"
